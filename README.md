@@ -1,7 +1,7 @@
 ### Welcome! 😁
 
 My name is Matheus Régis, I'm 24 years old, and I'm from Fraiburgo, Santa Catarina (🇧🇷).
-I'm a student, currently studying the 7th Phase of Computer Science - IFC Campus Videira. <br>
+I'm a student, currently studying the 7th Semester of Computer Science - IFC Campus Videira. <br>
 I love technology, since I was little, always fissured by the power of computers, and games.
 I grew up and became interested in the IT area, mainly the Hardware area, so I decided that after high school, I would study Computer Science.
 When I got to the course and started to see that the course was basically programming, I got desperate, it wasn't what I wanted, and I started to get discouraged.
